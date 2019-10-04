@@ -1,0 +1,1 @@
+Notification.requestPermission().then(() => new Notification('Hola mundo!'))
